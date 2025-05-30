@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Lista Zadań</string>
+
+    <string-array name="task_titles">
+        <item>Zrobić zakupy</item>
+        <item>Oddać książkę</item>
+        <item>Zapłacić rachunki</item>
+        <item>Naprawić kran</item>
+        <item>Zadzwonić do rodziców</item>
+    </string-array>
+
+    <string-array name="task_descriptions">
+        <item>Mleko, jajka, chleb, owoce</item>
+        <item>Książka \"Android Programming\"</item>
+        <item>Prąd i internet</item>
+        <item>Przecieka w łazience</item>
+        <item>Umówić wizytę na święta</item>
+    </string-array>
+
+    <string-array name="task_due_dates">
+        <item>2023-12-20</item>
+        <item>2023-12-25</item>
+        <item>2023-12-15</item>
+        <item>2023-12-10</item>
+        <item>2023-12-18</item>
+    </string-array>
+    <string name="status_icon">Ikona statusu zadania</string>
+</resources>
